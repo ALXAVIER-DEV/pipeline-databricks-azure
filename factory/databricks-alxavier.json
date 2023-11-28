@@ -1,0 +1,9 @@
+{
+	"name": "databricks-alxavier",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "41941dc3-f8d0-496e-989e-322420639739",
+		"tenantId": "086b9b41-943e-45fe-a30f-bfce5428704a"
+	}
+}
